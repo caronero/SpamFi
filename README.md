@@ -50,10 +50,6 @@ To make the most of SpamFi, ensure the following are installed:
    git clone https://github.com/yourusername/spamfi.git
    cd spamfi
    ```
-2. Install Python dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ### Running SpamFi:
 Run the script with elevated privileges:
